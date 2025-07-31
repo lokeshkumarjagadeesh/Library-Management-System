@@ -56,3 +56,5 @@ A simple and interactive command-line Library Management System built using **Py
 ---
 
 ##  Screenshots 
+
+![image alt](https://github.com/lokeshkumarjagadeesh/Library-Management-System/blob/18d0ffaa9b4c13d63acd9a72d4cf185f45e9dc1b/sample%20output.png)
